@@ -5,7 +5,7 @@
 - Fetch Coordinates List from firebase cloud
 - Mark all coordinates on Google Map
 - Get User Current Location if GPS is not open then set the default location as "Some Default Location"
-- On Click, any marker gets PATH between current/default location
+- On Click, any marker gets PATH between current/default location and Marker
 - Users can also navigate to the selected marker location via google map
 
 
