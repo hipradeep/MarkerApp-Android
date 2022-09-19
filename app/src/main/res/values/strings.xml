@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">MarkerApp</string>
-    <string name="apikey1">AIzaSyAEaR-IixhqBbUGM-GbG_FBEoggTjc1x8w</string>
-    <string name="apikey">AIzaSyDK-kRjkXN2NfX_gfHhMJVTyDHkh549Z1o</string>
+    <string name="apikey">AIzaSyAEaR-IixhqBbUGM-GbG_FBEoggTjc1x8w</string>
     <string name="current_location">current location</string>
 </resources>
